@@ -5,7 +5,7 @@ Explanation of the method, the task and the analysis
 ### Introduction
 
 Si bien ya se ha tratado el correlato neuronal de efectos de magia con imagen por resonancia magnética funcional
-[Danek et al., 2015](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4316608/)
+[Danek et al., 2015](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4316608/), 
 [Parris et al., 2009](https://www.sciencedirect.com/science/article/pii/S1053811908012949)
 en este proyecto se considera que es una técnica que no preserva las condiciones de una sesión de magia, por lo que para registrar la 
 respuesta neurológica se utilizó la espectroscopia funcional de infrarrojo cercano (fNIR). 
@@ -80,11 +80,12 @@ fueron los que se usaron para el análisis. El inicio del estímulo servía como
 
 #### Subjects N=53
 Visionado en directo
-d_c_c, d_m_nc, d_c_c: 18 sujetos
-d_c_nc, d_m_c, d_c_nc: 18 sujetos
++ 1 d_c_c, d_m_nc, d_c_c: 18 sujetos
++2 d_c_nc, d_m_c, d_c_nc: 18 sujetos
+
 Visionado en vídeo
-v_c_c, v_m_nc, v_c_c: 9 sujetos
-v_c_nc, v_m_c, v_c_nc: 8 sujetos
++ 1 v_c_c, v_m_nc, v_c_c: 9 sujetos
++ 2 v_c_nc, v_m_c, v_c_nc: 8 sujetos
 
 
 
