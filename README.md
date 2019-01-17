@@ -81,7 +81,7 @@ fueron los que se usaron para el análisis. El inicio del estímulo servía como
 #### Subjects N=53
 Visionado en directo
 + 1 d_c_c, d_m_nc, d_c_c: 18 sujetos
-+2 d_c_nc, d_m_c, d_c_nc: 18 sujetos
++ 2 d_c_nc, d_m_c, d_c_nc: 18 sujetos
 
 Visionado en vídeo
 + 1 v_c_c, v_m_nc, v_c_c: 9 sujetos
