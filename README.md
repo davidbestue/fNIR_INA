@@ -5,7 +5,7 @@ Explanation of the method, the task and the analysis
 ### Introduction
 
 Si bien ya se ha tratado el correlato neuronal de efectos de magia con imagen por resonancia magnética funcional
-[Danek et al., 2015]https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4316608/)
+[Danek et al., 2015](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4316608/)
 [Parris et al., 2009](https://www.sciencedirect.com/science/article/pii/S1053811908012949)
 en este proyecto se considera que es una técnica que no preserva las condiciones de una sesión de magia, por lo que para registrar la 
 respuesta neurológica se utilizó la espectroscopia funcional de infrarrojo cercano (fNIR). 
